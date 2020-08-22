@@ -49,6 +49,11 @@
     box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.25);
     border-radius: 70px;
   }
+  .storebtn:hover{ width: 265px;height: 55px;left: calc(50% - 265px/2);}
+
+  .gamebtn:hover{ width: 265px;height: 55px;left: calc(50% - 265px/2);}
+
+  .newsbtn:hover{ width: 265px;height: 55px;left: calc(50% - 265px/2);}
   .storetxt{
     position: absolute;
     width: 155px;
