@@ -67,6 +67,7 @@
     line-height: 34px;
     text-align: center;
     color: #FFFFFF;
+    text-decoration: none;
   }
   .gametxt{
     position: absolute;
@@ -81,6 +82,7 @@
     line-height: 34px;
     text-align: center;
     color: #FFFFFF;
+    text-decoration: none;
 
   }
   .newstxt{
@@ -96,6 +98,7 @@
     line-height: 34px;
     text-align: center;
     color: #FFFFFF;
+    text-decoration: none;
 
   }
 }
